@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# IML Hackathon 2025 – Predicting Breast-Cancer Attributes  
+# IML Hackathon – Predicting Breast-Cancer Attributes  
 <sub>Course ❯ <strong>Introduction to Machine Learning (67577)</strong> • School of Computer Science & Engineering, Hebrew University of Jerusalem</sub>
 
 </div>

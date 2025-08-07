@@ -133,11 +133,12 @@ The dataset (≈ 50 k visits, 34 raw columns) was provided by the course staff.
 | Name       |
 |------------|
 | **Shay M.** |
+| **Avraham K.** |
 | **Lior T.** |
 | **Yehonatan E.** |
-| **Abraham K.** |
 
-*Supervision:* Dr. Gabriel Stanovsky et al. – course staff & dataset providers.
+
+*Supervision:* Dr. Gabriel Stanovsky, Dr. Roy Schwartz and all IML course staff & dataset providers.
 
 
 
